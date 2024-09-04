@@ -57,6 +57,6 @@ The application uses Spring Security for managing user authentication and author
 
 ## Contributors
 
-- [GallonSchimmer](https://www.udemy.com/course/spring-hibernate-tutorial/?couponCode=SEPTSTACK24B)
+- [UDEMY Course](https://www.udemy.com/course/spring-hibernate-tutorial/?couponCode=SEPTSTACK24B)
 
 
